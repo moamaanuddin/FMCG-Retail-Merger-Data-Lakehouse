@@ -26,21 +26,23 @@
 
 # 📚 Table of Contents
 
-* [📖 Project Overview](#-project-overview)
-* [🏢 Business Problem](#-business-problem)
-* [💡 Solution Overview](#-solution-overview)
-* [🏗 Solution Architecture](#-solution-architecture)
-* [🥉 Medallion Architecture](#-medallion-architecture)
-* [🛠 Technology Stack](#-technology-stack)
-* [📂 Repository Structure](#-repository-structure)
-* [🛡 Enterprise Data Quality & Standardization](#-enterprise-data-quality--standardization)
-* ETL Pipeline *(Part 2)*
-* Gold Layer Data Model *(Part 2)*
-* Dashboards *(Part 2)*
-* Databricks Genie *(Part 2)*
-* Documentation *(Part 2)*
-* Future Enhancements *(Part 2)*
-
+- [📖 Project Overview](#-project-overview)
+- [🏢 Business Problem](#-business-problem)
+- [💡 Solution Overview](#-solution-overview)
+- [🏗️ Solution Architecture](#️-solution-architecture)
+- [🥉 Medallion Architecture](#-medallion-architecture)
+- [🛠️ Technology Stack](#️-technology-stack)
+- [📂 Repository Structure](#-repository-structure)
+- [🛡️ Enterprise Data Quality & Standardization](#️-enterprise-data-quality--standardization)
+- [⚙️ ETL Pipeline](#️-etl-pipeline)
+- [⭐ Gold Layer Data Model](#-gold-layer-data-model)
+- [📊 Business Intelligence Dashboards](#-business-intelligence-dashboards)
+- [🤖 AI-Powered Analytics with Databricks Genie](#-ai-powered-analytics-with-databricks-genie)
+- [📚 Documentation](#-documentation)
+- [🌟 Project Highlights](#-project-highlights)
+- [🚀 Future Enhancements](#-future-enhancements)
+- [📄 License](#-license)
+- [👨‍💻 Author](#-author)
 ---
 
 # 📖 Project Overview
