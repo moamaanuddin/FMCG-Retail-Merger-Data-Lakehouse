@@ -641,7 +641,7 @@ The notebooks are executed sequentially.
 
 <div align="center">
 
-<img src="architecture/dimensional_model.png" width="850"/>
+<img src="architecture/dimensional_model_and_data_architecture.png" width="850"/>
 
 </div>
 
@@ -688,9 +688,9 @@ The Gold Layer powers interactive dashboards that enable business users to monit
 
 <div align="center">
 
-*(Replace with dashboard screenshots)*
 
-<img src="dashboards/dashboard.png" width="1000"/>
+
+<img src="dashboards/dashboard-2.png" width="1000"/>
 
 </div>
 
@@ -721,7 +721,7 @@ The consolidated Gold Layer is exposed to **Databricks Genie**, enabling busines
 
 <div align="center">
 
-*(Replace with Genie screenshots)*
+
 
 <img src="genie/genie_history.png" width="900"/>
 
