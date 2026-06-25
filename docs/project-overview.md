@@ -24,7 +24,14 @@ The final solution delivers a centralized **single source of truth** that powers
 
 ## 🏗 Solution Architecture
 
-> Replace with `architecture/solution_architecture.png`
+<div align="center">
+
+## 🏗 Solution Architecture
+
+<img src="../architecture/solution_architecture.png" alt="Solution Architecture" width="1000"/>
+
+</div>
+
 
 </div>
 
