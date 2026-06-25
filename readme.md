@@ -723,7 +723,7 @@ The consolidated Gold Layer is exposed to **Databricks Genie**, enabling busines
 
 
 
-<img src="genie/genie_history.png" width="900"/>
+<img src="Genie/genie_history.png" width="900"/>
 
 </div>
 
