@@ -134,7 +134,7 @@
   "pages": [
     {
       "name": "d435a7fb",
-      "displayName": "Untitled page",
+      "displayName": "Dashboard-1",
       "layout": [
         {
           "widget": {
@@ -499,6 +499,7 @@
               "encodings": {
                 "x": {
                   "fieldName": "sum(total_sales)",
+                  "displayName": "Total sales",
                   "scale": {
                     "type": "quantitative"
                   }
@@ -614,6 +615,9 @@
                 },
                 "y": {
                   "fieldName": "sum(cumulative_orders)",
+                  "axis": {
+                    "title": "cumulative orders"
+                  },
                   "scale": {
                     "type": "quantitative"
                   }
@@ -637,7 +641,7 @@
     },
     {
       "name": "18201de8",
-      "displayName": "Untitled page 1",
+      "displayName": "Dashboard-2",
       "layout": [
         {
           "widget": {
@@ -954,6 +958,7 @@
               "encodings": {
                 "x": {
                   "fieldName": "sum(total_revenue)",
+                  "displayName": "Total revenue",
                   "scale": {
                     "type": "quantitative"
                   }
