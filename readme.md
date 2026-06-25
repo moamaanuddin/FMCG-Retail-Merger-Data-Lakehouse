@@ -273,13 +273,7 @@ High-quality data is fundamental to accurate business reporting. During the **Si
 * 🚀 Improved decision-making
 * 🔍 Enhanced data integrity
 
----
 
-<div align="center">
-
-### 📖 Continue to **Part 2**
-
-**ETL Pipeline • Gold Layer Data Model • Dashboards • Databricks Genie • Documentation • Future Enhancements**
 
 </div>
 ---
@@ -419,6 +413,14 @@ The Gold Layer powers interactive dashboards that enable business users to monit
 
 </div>
 
+---
+<div align="center">
+
+
+
+<img src="Dashboards/Dashboard-1.png" width="1000"/>
+
+</div>
 ---
 
 ## Dashboard Capabilities
