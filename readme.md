@@ -690,7 +690,7 @@ The Gold Layer powers interactive dashboards that enable business users to monit
 
 
 
-<img src="dashboards/dashboard-2.png" width="1000"/>
+<img src="Dashboards/dashboard-2.png" width="1000"/>
 
 </div>
 
