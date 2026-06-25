@@ -20,9 +20,7 @@ The final solution delivers a centralized **single source of truth** that powers
 
 ---
 
-<div align="center">
 
-## 🏗 Solution Architecture
 
 <div align="center">
 
@@ -34,7 +32,6 @@ The final solution delivers a centralized **single source of truth** that powers
 
 
 </div>
-
 ---
 
 ## 🎯 Project Objectives
